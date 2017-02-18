@@ -1,0 +1,11 @@
+xxxxxxxxxxxxxxxxxxxxxx
+x....................x
+x.xxxxxxx.x xxxxxxxx.x
+x.........xgx........x
+x.x.xx.xx.xxx.xx.xxx.x
+x....................x
+x.xxxxxxxx.x.xxxxxxx.x
+x..........x.x.......x
+x.xx.xx.xxxx.xxxx.xxxx
+xp..................cx
+xxxxxxxxxxxxxxxxxxxxxx
